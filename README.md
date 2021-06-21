@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Michael Frohberg and I build apps that build apps. 👋
 
 <!--
 **mfrohberg/mfrohberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
